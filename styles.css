@@ -187,7 +187,7 @@ section .content p {
   .container_image iframe {
     position: absolute;
     width: 45%;
-    height: 100%;
+    height: 80%;
   }
   .icon img {
     background-color: #8e7754;
